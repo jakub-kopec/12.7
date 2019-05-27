@@ -12,7 +12,7 @@ function generateTemplate(name, data, basicElement) {
 //API part
 var baseUrl = 'https://kodilla.com/pl/bootcamp-api';
 var myHeaders = {
-    'X-Client-Id': '4097',
+    'X-Client-Id': 4097,
     'X-Auth-Token': '55e292d115017b3fff7338ad960e7dc9'
 };
 
